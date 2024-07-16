@@ -1,0 +1,15 @@
+{
+    // Disable linting or intellisense diagnostics
+"editor.codeLens": false,
+"editor.semanticHighlighting.enabled": false,
+"editor.errorLens.enabled": false,
+
+// For specific languages, you can disable validation
+"[javascript]": {
+  "editor.validate": false
+},
+"[python]": {
+  "editor.validate": false
+}
+
+}
